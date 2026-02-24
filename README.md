@@ -26,4 +26,4 @@ This project is a Todo application that demonstrates how to build a **scalable, 
 | Orchestration    | Kubernetes |
 | Code Generation  | buf / protoc |
 
-## 🗂 Project Structure
+
